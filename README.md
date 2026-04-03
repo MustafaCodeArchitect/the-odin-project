@@ -26,4 +26,4 @@ This project is a mockup for *Cilantro Cafe*, built as part of the Foundations c
 * **Visual Styling:** Applying `border-radius`, `hover` transitions, and `object-fit` for a polished UI.
 * **Semantic HTML:** Using `<header>`, `<main>`, `<section>`, and `<figure>` for better accessibility and SEO.
 
-[🔗 View Live Preview](https://mustafacodearchitect.github.io/the-odin-project/landing-page/)
+[🔗 View Live Preview](https://mustafacodearchitect.github.io/the-odin-project/Landing-Page/)
