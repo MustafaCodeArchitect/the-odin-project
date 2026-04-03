@@ -14,3 +14,16 @@ This is my first project from the Foundations course. It focuses on demonstratin
 * Linking internal pages and external images.
 
 [🔗 View Live Preview](https://mustafacodearchitect.github.io/the-odin-project/Foundations/odin-recipes/)
+
+---
+
+### 2. Landing Page: Cilantro Cafe
+This project is a mockup for *Cilantro Cafe*, built as part of the Foundations course. It focuses on mastering **CSS Flexbox** to create a professional, structured layout.
+
+**Key Learning Objectives:**
+* **Flexbox Mastery:** Implementing `display: flex` for navigation, hero sections, and product grids.
+* **Responsive Alignment:** Using `justify-content: space-between` and `align-items: center` to manage white space.
+* **Visual Styling:** Applying `border-radius`, `hover` transitions, and `object-fit` for a polished UI.
+* **Semantic HTML:** Using `<header>`, `<main>`, `<section>`, and `<figure>` for better accessibility and SEO.
+
+[🔗 View Live Preview](https://mustafacodearchitect.github.io/the-odin-project/landing-page/)
