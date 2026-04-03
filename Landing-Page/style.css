@@ -1,0 +1,172 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+    background-color: #f9f9f9;
+    color: #333;
+}
+
+header {
+    background-color: #1f2937; 
+    padding: 15px 10%;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between; 
+    align-items: center;
+}
+
+.header-logo {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%; 
+    border: 3px solid #c5a059; 
+    object-fit: cover;
+}
+
+.header-link {
+    display: flex;
+    list-style: none;
+    gap: 25px;
+}
+
+.header-link a {
+    text-decoration: none;
+    color: #e5e7eb;
+    font-size: 18px;
+    transition: 0.3s;
+}
+
+.header-link a:hover {
+    color: #c5a059; 
+}
+
+.hero {
+    background-color: #1f2937;
+    display: flex;
+    padding: 80px 10%;
+    align-items: center;
+    justify-content: space-between;
+    gap: 50px;
+}
+
+.hero-content {
+    max-width: 450px;
+}
+
+.hero h1 {
+    font-size: 48px;
+    color: #f9faf8;
+    margin-bottom: 15px;
+}
+
+.hero p {
+    font-size: 18px;
+    color: #e5e7eb;
+    margin-bottom: 25px;
+}
+
+.hero button, .cta-box button {
+    background-color: #3882f6; 
+    color: white;
+    border: none;
+    padding: 10px 30px;
+    border-radius: 8px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.hero img {
+    width: 500px;
+    border-radius: 15px;
+}
+
+.Menu-preview {
+    padding: 60px 10%;
+    text-align: center;
+}
+
+.Menu-preview h2 {
+    font-size: 36px;
+    margin-bottom: 40px;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    flex-wrap: wrap; 
+}
+
+.container figure {
+    width: 200px;
+}
+
+.container img {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    border: 4px solid #3882f6;
+    border-radius: 15px;
+    margin-bottom: 10px;
+}
+
+.container figcaption {
+    color: #555;
+    font-size: 16px;
+}
+
+.quote-section {
+    background-color: #e5e7eb;
+    padding: 80px 20%;
+}
+
+blockquote p {
+    font-size: 32px;
+    font-style: italic;
+    color: #1f2937;
+    font-weight: lighter;
+}
+
+blockquote cite {
+    display: block;
+    text-align: right;
+    font-weight: bold;
+    font-size: 20px;
+    margin-top: 10px;
+}
+
+.cta-banner {
+    padding: 80px 10%;
+}
+
+.cta-box {
+    background-color: #3882f6;
+    color: white;
+    padding: 40px 80px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.cta-box h2 {
+    margin-bottom: 5px;
+}
+
+.cta-box button {
+    border: 2px solid white;
+}
+
+
+footer {
+    text-align: center;
+    padding: 40px;
+    background-color: #1f2937;
+    color: #e5e7eb;
+}
