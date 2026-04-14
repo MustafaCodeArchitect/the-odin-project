@@ -27,3 +27,11 @@ This project is a mockup for *Cilantro Cafe*, built as part of the Foundations c
 * **Semantic HTML:** Using `<header>`, `<main>`, `<section>`, and `<figure>` for better accessibility and SEO.
 
 [🔗 View Live Preview](https://mustafacodearchitect.github.io/the-odin-project/Landing-Page/)
+
+---
+
+### 3. Rock Paper Scissors
+This project is a classic Rock Paper Scissors game played against the computer. It marks the first major step into implementing complex logic using **JavaScript**.
+
+[🔗 View Live Preview](https://mustafacodearchitect.github.io/the-odin-project/rock-paper-scissors/)
+**Just open the console From Devtools to see the result.**
