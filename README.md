@@ -9,29 +9,20 @@ This repository is a comprehensive collection of my progress, projects, and mayb
 
 ### 1. Odin Recipes
 This is my first project from the Foundations course. It focuses on demonstrating basic HTML skills including:
-* Structuring pages with headings and paragraphs.
-* Working with lists (ordered and unordered).
-* Linking internal pages and external images.
 
 [🔗 View Live Preview](https://mustafacodearchitect.github.io/the-odin-project/Foundations/odin-recipes/)
 
 ---
 
 ### 2. Landing Page: Cilantro Cafe
-This project is a mockup for *Cilantro Cafe*, built as part of the Foundations course. It focuses on mastering **CSS Flexbox** to create a professional, structured layout.
-
-**Key Learning Objectives:**
-* **Flexbox Mastery:** Implementing `display: flex` for navigation, hero sections, and product grids.
-* **Responsive Alignment:** Using `justify-content: space-between` and `align-items: center` to manage white space.
-* **Visual Styling:** Applying `border-radius`, `hover` transitions, and `object-fit` for a polished UI.
-* **Semantic HTML:** Using `<header>`, `<main>`, `<section>`, and `<figure>` for better accessibility and SEO.
+This project is a mockup for *Cilantro Cafe*, built as part of the Foundations course. It focuses on **CSS Flexbox** to create a professional, structured layout.
 
 [🔗 View Live Preview](https://mustafacodearchitect.github.io/the-odin-project/Landing-Page/)
 
 ---
 
 ### 3. Rock Paper Scissors
-This project is a classic Rock Paper Scissors game played against the computer. It marks the first major step into implementing complex logic using **JavaScript**.
+This project is a classic Rock Paper Scissors game played against the computer using **JavaScript**.
 
 [🔗 View Live Preview](https://mustafacodearchitect.github.io/the-odin-project/rock-paper-scissors/)
 **Just open the console From Devtools to see the result.**
